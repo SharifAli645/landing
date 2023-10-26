@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.cnt_about{
+    display: flex;
+    flex-direction: row;
+    height: 820px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about_title{
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.cnt_phrase{
+    width: 900px;
+    font-size: 25px;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* Estilos de la barra de desplazamiento (opcional) */
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+/* Estilos de la pista de la barra de desplazamiento (opcional) */
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+

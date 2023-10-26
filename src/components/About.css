@@ -1,0 +1,35 @@
+.container_feature{
+    display: flex;
+    flex-direction: column;
+    height: 2460px;
+     font-family: 'Gabarito', sans-serif;
+
+
+}
+
+.box{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    justify-content: space-around;
+   
+}
+.c2{
+    justify-content: right;
+     justify-content: space-around;
+}
+.title_feat{
+    font-size: 35px;
+    text-align: center;
+}
+.desc{
+    font-size: 20px;
+    text-align: justify;
+}
+.cnt_data{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

@@ -14,10 +14,10 @@ export default function About() {
             </li>
           </div>
         </div>
-        <img src="/intuitivo.png" height={500} />
+        <img src="../intuitivo.png" height={500} />
       </div>
       <div className="box c2">
-        <img src="/teoria.png" height={700} />
+        <img src="teoria.png" height={700} />
 
         <div className="cnt_data">
           <div className="title_feat">Calidad de contenido</div>{" "}
@@ -34,11 +34,12 @@ export default function About() {
           <div className="title_feat">Interactiva</div>{" "}
           <div className="desc">
             <li>
-              El usuario es incentivado a tomar acción y aplicar sus conocimientos adquiridos luego de cada aprendizaje. 
+              El usuario es incentivado a tomar acción y aplicar sus
+              conocimientos adquiridos luego de cada aprendizaje.
             </li>
           </div>
         </div>
-        <img src="/interactivo.png" height={500} />
+        <img src="./interactivo.png" height={500} />
       </div>
     </div>
   );

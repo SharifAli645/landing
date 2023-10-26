@@ -14,7 +14,7 @@ export default function Intro() {
           </div>
       <div className='imagen'>
         
-        <img src="/code.png" height={500}/>
+        <img src="code.PNG" height={500}/>
       </div>
     </div>
   );

@@ -14,7 +14,7 @@ export default function About() {
             </li>
           </div>
         </div>
-        <img src="../intuitivo.png" height={500} />
+        <img src="intuitivo.png" height={500} />
       </div>
       <div className="box c2">
         <img src="teoria.png" height={700} />
